@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[Chrome :::: verifyAmazonHomePageTitle :: Thread Id :: Thread[main,5,main]]]>
+      <![CDATA[Chrome :::: UploadProfilePicTest :: Thread Id :: Thread[main,5,main]]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10604" started-at="2020-12-26T20:03:09Z" finished-at="2020-12-26T20:03:20Z">
+  <suite name="Default suite" duration-ms="34638" started-at="2020-12-27T17:33:47Z" finished-at="2020-12-27T17:34:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10604" started-at="2020-12-26T20:03:09Z" finished-at="2020-12-26T20:03:20Z">
-      <class name="com.ecom.CiCdDemoApp.AmazonSiteTesting">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.AmazonSiteTesting@27c20538]" name="launchBrowser" is-config="true" duration-ms="10184" started-at="2020-12-26T20:03:09Z" finished-at="2020-12-26T20:03:19Z">
+    <test name="Default test" duration-ms="34638" started-at="2020-12-27T17:33:47Z" finished-at="2020-12-27T17:34:21Z">
+      <class name="com.ecom.CiCdDemoApp.ProfileUploadTest">
+        <test-method status="PASS" signature="loadBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@27c20538]" name="loadBrowser" is-config="true" duration-ms="3228" started-at="2020-12-27T17:33:47Z" finished-at="2020-12-27T17:33:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="loadAmazonHomePage()[pri:0, instance:com.ecom.CiCdDemoApp.AmazonSiteTesting@27c20538]" name="loadAmazonHomePage" duration-ms="27" started-at="2020-12-26T20:03:19Z" finished-at="2020-12-26T20:03:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loadAmazonHomePage -->
-        <test-method status="PASS" signature="verifyAmazonHomePageTitle()[pri:0, instance:com.ecom.CiCdDemoApp.AmazonSiteTesting@27c20538]" name="verifyAmazonHomePageTitle" duration-ms="8" started-at="2020-12-26T20:03:19Z" finished-at="2020-12-26T20:03:19Z">
+        </test-method> <!-- loadBrowser -->
+        <test-method status="PASS" signature="UploadProfilePicTest()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@27c20538]" name="UploadProfilePicTest" duration-ms="31276" started-at="2020-12-27T17:33:50Z" finished-at="2020-12-27T17:34:21Z">
           <reporter-output>
             <line>
-              <![CDATA[Chrome :::: verifyAmazonHomePageTitle :: Thread Id :: Thread[main,5,main]]]>
+              <![CDATA[Chrome :::: UploadProfilePicTest :: Thread Id :: Thread[main,5,main]]]>
             </line>
           </reporter-output>
-        </test-method> <!-- verifyAmazonHomePageTitle -->
-        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.AmazonSiteTesting@27c20538]" name="terminateBrowser" is-config="true" duration-ms="358" started-at="2020-12-26T20:03:19Z" finished-at="2020-12-26T20:03:20Z">
+        </test-method> <!-- UploadProfilePicTest -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@27c20538]" name="terminateBrowser" is-config="true" duration-ms="113" started-at="2020-12-27T17:34:21Z" finished-at="2020-12-27T17:34:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminateBrowser -->
-      </class> <!-- com.ecom.CiCdDemoApp.AmazonSiteTesting -->
+      </class> <!-- com.ecom.CiCdDemoApp.ProfileUploadTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
