@@ -3,7 +3,6 @@ package com.ecom.CiCdDemoApp;
 import org.testng.annotations.Test;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
-import static org.testng.Assert.assertEquals;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;

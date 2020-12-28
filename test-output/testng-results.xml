@@ -5,23 +5,23 @@
       <![CDATA[Chrome :::: UploadProfilePicTest :: Thread Id :: Thread[main,5,main]]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34638" started-at="2020-12-27T17:33:47Z" finished-at="2020-12-27T17:34:21Z">
+  <suite name="Default suite" duration-ms="37787" started-at="2020-12-28T06:45:38Z" finished-at="2020-12-28T06:46:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34638" started-at="2020-12-27T17:33:47Z" finished-at="2020-12-27T17:34:21Z">
+    <test name="Default test" duration-ms="37787" started-at="2020-12-28T06:45:38Z" finished-at="2020-12-28T06:46:16Z">
       <class name="com.ecom.CiCdDemoApp.ProfileUploadTest">
-        <test-method status="PASS" signature="loadBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@27c20538]" name="loadBrowser" is-config="true" duration-ms="3228" started-at="2020-12-27T17:33:47Z" finished-at="2020-12-27T17:33:50Z">
+        <test-method status="PASS" signature="loadBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@3f49dace]" name="loadBrowser" is-config="true" duration-ms="3987" started-at="2020-12-28T06:45:38Z" finished-at="2020-12-28T06:45:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadBrowser -->
-        <test-method status="PASS" signature="UploadProfilePicTest()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@27c20538]" name="UploadProfilePicTest" duration-ms="31276" started-at="2020-12-27T17:33:50Z" finished-at="2020-12-27T17:34:21Z">
+        <test-method status="PASS" signature="UploadProfilePicTest()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@3f49dace]" name="UploadProfilePicTest" duration-ms="33254" started-at="2020-12-28T06:45:42Z" finished-at="2020-12-28T06:46:15Z">
           <reporter-output>
             <line>
               <![CDATA[Chrome :::: UploadProfilePicTest :: Thread Id :: Thread[main,5,main]]]>
             </line>
           </reporter-output>
         </test-method> <!-- UploadProfilePicTest -->
-        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@27c20538]" name="terminateBrowser" is-config="true" duration-ms="113" started-at="2020-12-27T17:34:21Z" finished-at="2020-12-27T17:34:21Z">
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.ecom.CiCdDemoApp.ProfileUploadTest@3f49dace]" name="terminateBrowser" is-config="true" duration-ms="519" started-at="2020-12-28T06:46:15Z" finished-at="2020-12-28T06:46:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminateBrowser -->
